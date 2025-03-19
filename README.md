@@ -28,3 +28,5 @@ Creating high-quality videos and valuable resources that are accessible to every
 Remember, ***supporting me is entirely optional.*** Your choice to become a member or not won't change your access to my videos and resources. You are also welcome to reach out to me on Discord, if you have any questions or feedback.
 
 [https://www.patreon.com/christianlempa](https://www.patreon.com/christianlempa)
+
+PS - Hey Christian, You could always use Lazyvim (based on neovim) (https://www.lazyvim.org) as a completely configurable SSH adptable IDE for coding any project. 
